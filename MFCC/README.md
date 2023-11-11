@@ -27,7 +27,7 @@ For other functions, you have to implement them **by yourself**. The project res
 
 ```bash
 MFCC
-│---Report.docx # Lab Report in Chines
+│---Report.docx # Lab Report in Chinese
 │---main.ipynb  # main code
 │---record.py   # codes to generate wav test file
 └─--record.wav  # test file
