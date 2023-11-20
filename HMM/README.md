@@ -34,8 +34,9 @@ The goal is to estimate the parameters of the mixture model that best explain th
 
 ```bash
 MFCC
-│---hw6_solutions.pdf   # reference material
-└─--Report.docx 		# Lab Report in Chinese
+│---hw6_solutions.pdf   			# reference material
+│---Expectation-Maximization.pdf   	# My understanding of EM algorithm
+└─--Report.docx 					# Lab Report in Chinese
 
 ```
 
