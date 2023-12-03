@@ -20,8 +20,9 @@ The experimental setup is hosted on [AutoDL](https://www.autodl.com/home), a com
 
 ```bash
 MFCC
-│---Report.pdf  # Lab Report in English
-│---Kaldi.md  	# Report without pictures
-└─--record.py   # codes to generate wav test file
+│---Report.pdf  		# Lab Report in English
+│---Kaldi.md  			# Report without pictures
+│---Kaldi_intro.pptx  	# guidance from teacher
+└─--record.py   		# codes to generate wav test file
 ```
 
