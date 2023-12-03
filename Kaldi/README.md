@@ -1,4 +1,4 @@
-# Implementing and Testing Speech Recognition with Kaldi: From Installation to Personal Speech Analysis
+# Kaldi
 
 ASR Homework 3  |  2023/12/03
 
